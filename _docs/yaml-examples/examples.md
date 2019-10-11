@@ -42,7 +42,7 @@ Codefresh has native support for [building]({{site.baseurl}}/docs/codefresh-yaml
 - [Build an Image With Build Arguments]({{site.baseurl}}/docs/yaml-examples/examples/build-an-image-with-build-arguments)
 - [Shared Volumes Between Builds]({{site.baseurl}}/docs/yaml-examples/examples/shared-volumes-between-builds)
 - [Get Short SHA ID and Use it in a CI Process]({{site.baseurl}}/docs/yaml-examples/examples/get-short-sha-id-and-use-it-in-a-ci-process)
-- [Calling a CD pipeline from a CI pipeline]({{site.baseurl}}/docs/yaml-examples/examples/codefresh-run-example)
+- [Calling a CD pipeline from a CI pipeline]({{site.baseurl}}/docs/yaml-examples/examples/call-child-pipelines)
 
 ## Testing
 
